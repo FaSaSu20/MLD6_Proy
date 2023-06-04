@@ -59,6 +59,5 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 
 ## Aprobaciones
 
-- Cristian Andrés Diaz Durán - Viceministro de energia.
 - ![image](https://github.com/FaSaSu20/MLD6_Proy/assets/65478386/d3a78aa4-093f-4ff3-8c6e-c9b73da45d85)
-- 14 de mayo
+Bogotá D.C. 14 de Mayo de 2023

@@ -4,7 +4,20 @@ Este documento contiene los resultados del análisis exploratorio de datos.
 
 ## Resumen general de los datos
 
-En esta sección se presenta un resumen general de los datos. Se describe el número total de observaciones, variables, el tipo de variables, la presencia de valores faltantes y la distribución de las variables.
+Hay un total de 2647, entre 1ro de enero de 2015 hasta el 31 de marzo del 2022. Se tienen 6 columnas:
+
+  - Fecha: Variable de tipo datetime.
+  - Agua: Variable númerica.
+  - Carbón: Variable númerica.
+  - Gas: Variable númerica.
+  - Líquidos: Variable númerica.
+  - Precio bolsa: Variable númerica.
+
+No hay datos faltantes, en todas las fechas se tiene registros.
+
+Distribución estadisticas de las variables:
+
+![image](https://github.com/FaSaSu20/MLD6_Proy/assets/65478386/aeebb165-a86c-453b-a15b-3228c39619b2)
 
 ## Resumen de calidad de los datos
 

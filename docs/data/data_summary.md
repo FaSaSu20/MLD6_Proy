@@ -21,20 +21,20 @@ Distribución estadisticas de las variables:
 
 ## Resumen de calidad de los datos
 
-En esta sección se presenta un resumen de la calidad de los datos. Se describe la cantidad y porcentaje de valores faltantes, valores extremos, errores y duplicados. También se muestran las acciones tomadas para abordar estos problemas.
+No hay valores faltantes. Los valores extremos se identifican en la tabla anterior. Tampoco existen duplicados, ni inconsistencias ni errores evidentes. Por lo tanto la calidad de los datos es buena.
 
-## Variable objetivo
+### Relación entre variables explicativas y variable objetivo
 
-En esta sección se describe la variable objetivo. Se muestra la distribución de la variable y se presentan gráficos que permiten entender mejor su comportamiento.
+## Variable objetivo & Variables individuales
 
-## Variables individuales
+La siguente serie de tiempo evidencia el comportamiento de las variables individuales y su relación con la variable objetivo, se observa que el agua se comporta muy cerca a la variable objetivo.
 
-En esta sección se presenta un análisis detallado de cada variable individual. Se muestran estadísticas descriptivas, gráficos de distribución y de relación con la variable objetivo (si aplica). Además, se describen posibles transformaciones que se pueden aplicar a la variable.
+![image](https://github.com/FaSaSu20/MLD6_Proy/assets/65478386/da384c03-e392-45e1-b0e8-0b53c7020ddc)
 
 ## Ranking de variables
 
-En esta sección se presenta un ranking de las variables más importantes para predecir la variable objetivo. Se utilizan técnicas como la correlación, el análisis de componentes principales (PCA) o la importancia de las variables en un modelo de aprendizaje automático.
+El siguiente mapa de calor de correlación, muestra la relación entre las variables indivudales y su relación con la variable objetivo, se evidencia que el agua tiene una correlación positiva alta y el gas y el liquido una correlación negativa.
 
-## Relación entre variables explicativas y variable objetivo
+![image](https://github.com/FaSaSu20/MLD6_Proy/assets/65478386/6cdff55a-7189-4667-a0b1-57cc741108a5)
 
-En esta sección se presenta un análisis de la relación entre las variables explicativas y la variable objetivo. Se utilizan gráficos como la matriz de correlación y el diagrama de dispersión para entender mejor la relación entre las variables. Además, se pueden utilizar técnicas como la regresión lineal para modelar la relación entre las variables.
+No se uso ningún método de extracción de características ni de trasnformación de datos.

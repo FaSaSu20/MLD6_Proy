@@ -38,3 +38,8 @@ El siguiente mapa de calor de correlación, muestra la relación entre las varia
 ![image](https://github.com/FaSaSu20/MLD6_Proy/assets/65478386/6cdff55a-7189-4667-a0b1-57cc741108a5)
 
 No se uso ningún método de extracción de características ni de trasnformación de datos.
+
+El comportamiento de lso datos me lleva a proponer, 2 tipos de modelos:
+
+  - Regrisión líneal multiple.
+  - Red LSTM.
